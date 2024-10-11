@@ -136,7 +136,7 @@ const MySkillsPage = () => {
             <Develope width={40} height={40} /> Competitive Programmer 
           </Title>
           <Description>
-            Solved around 42`00+ Algorithmic Problems in total of all coding
+            Solved around 4000+ Algorithmic Problems in total of all coding
             platforms !
           </Description>
           <Description>

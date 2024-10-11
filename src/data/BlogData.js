@@ -9,7 +9,7 @@ export const Blogs = [
     {
         id:2,
         name:"Leetcode",
-        tags:["Knight : 2146","1700+ Problems Solved","500+ Days Streak","Top 2 % Globally"],
+        tags:["Guardian : 2164","1750+ Problems Solved","500+ Days Streak","Top 1 % Globally"],
         imgSrc:"https://leetcode.com/static/images/LeetCode_Sharing.png",
         link:"https://leetcode.com/kunal0612/"
     },

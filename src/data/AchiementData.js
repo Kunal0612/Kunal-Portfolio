@@ -20,4 +20,18 @@ export const Achieve = [
         tags:["Competitive Programming","DSA"],
         demo:"https://drive.google.com/file/d/1kImwyvJ3XcKNhVKNEXWWZQBNaqsNSZG6/view?usp=drive_link",
     },
+    {
+        id:4,
+        name:"AIR Ranks in GeeksForGeeks Contest",
+        description:"Achieved an AIR 8 in the GFG contest 141",
+        tags:["Competitive Programming","DSA"],
+        demo:"https://practice.geeksforgeeks.org/contest/gfg-weekly-coding-contest-141/leaderboard",
+    },
+    {
+        id:5,
+        name:"AIR Ranks in GeeksForGeeks Contest",
+        description:"Achieved an AIR 10 in the GFG contest 150",
+        tags:["Competitive Programming","DSA"],
+        demo:"https://practice.geeksforgeeks.org/contest/gfg-weekly-coding-contest-150/leaderboard",
+    },
 ] 
